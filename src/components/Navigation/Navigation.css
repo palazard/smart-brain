@@ -1,0 +1,9 @@
+nav{
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 5%;
+}
+
+.menu{
+    color: rgb(13, 3, 32);
+}

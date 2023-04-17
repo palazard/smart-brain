@@ -1,0 +1,14 @@
+.divTilt{
+    width: 160px;
+}
+
+.insideTilt{
+    padding: 10px;
+}
+
+.divInternTilt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(13, 3, 32) ;
+}

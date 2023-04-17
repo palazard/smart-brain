@@ -1,0 +1,9 @@
+#image{
+    width: 500px;
+    height: auto;
+}
+
+.box{
+    border: 1px solid blue;
+    position: absolute;
+}
