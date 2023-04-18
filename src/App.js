@@ -74,7 +74,7 @@ class App extends Component {
   onPictureSubmit = () =>{
     this.setState({imageLink: this.state.input});
 
-    fetch('http://localhost:3000/imageurl', {
+    fetch('https://smart-brain-server-mnc2.onrender.com/imageurl', {
       method: 'post',
       headers: {'Content-Type':'application/json'},
       body: JSON.stringify({              
@@ -83,7 +83,7 @@ class App extends Component {
     })
     .then(response => response.json())
     .then(result => {
-      fetch('http://localhost:3000/image', {
+      fetch('https://smart-brain-server-mnc2.onrender.com/image', {
           method: 'put',
           headers: {'Content-Type':'application/json'},
           body: JSON.stringify({              
