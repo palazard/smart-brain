@@ -12,7 +12,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Backend
 Node.js + Express.js
+
 PostgreSQL
+
 AI API from Clarifai.
 
 Hosted in render.com.
