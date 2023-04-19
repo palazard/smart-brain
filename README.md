@@ -2,11 +2,11 @@
 
 This Magic Brain will detect the faces in your pictures.
 
-## Here the step:
+## Here the steps:
 1. Register
 2. Enter the image URL you want to detect
 
-## Technologie
+## Technologies
 ### Frontend
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
