@@ -10,10 +10,12 @@ This Magic Brain will detect the faces in your pictures.
 ### Frontend
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Backend
+### [Backend](https://github.com/palazard/smart-brain-server/tree/main)
 Node.js + Express.js
 
-PostgreSQL
+Authentification by email + password encrypted with bcrypt.
+
+Database with PostgreSQL.
 
 AI API from Clarifai.
 
