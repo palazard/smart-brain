@@ -8,6 +8,7 @@ This Magic Brain will detect the faces in your pictures.
 
 ## Technologies
 ### Frontend
+https://smart-brain-0m9h.onrender.com/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### [Backend](https://github.com/palazard/smart-brain-server/tree/main)
